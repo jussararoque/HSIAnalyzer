@@ -7,6 +7,10 @@ Checked by JVR: 03/01/2021
 
 E-mail addresses: jussara.roque@ufv.br / jussararoque@gmail.com
 
-L.R. Terra, J.V. Roque, C.C. Pola, I.M. Gonçalves, N.F.F. Soares, R.F. Teófilo
+L.R. Terra, J.V. Roque, C.C. Pola, I.M. GonÃ§alves, N.F.F. Soares, R.F. TeÃ³filo
 Study of chemical compound spatial distribution in biodegradable active films using NIR hyperspectral imaging and multivariate curve resolution.
 https://doi.org/10.1002/cem.3193
+
+It is highly recommended to run the 'demo' routines to understand how to use all functions.
+
+-> specpretreat, hsipretreat and hsiresult show the available functions at each step and a brief summary of them.
