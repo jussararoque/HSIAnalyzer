@@ -15,4 +15,4 @@ It is highly recommended to run the 'demo' routines to understand how to use all
 
 -> specpretreat, hsipretreat and hsiresult show the available functions at each step and a brief summary of them.
 
-Dataset available at: https://1drv.ms/u/s!Aotvk0P6eJV3hfxKiVP5NkeE0Bg2XQ?e=B52a8x
+Demo example dataset available at: https://1drv.ms/u/s!Aotvk0P6eJV3hfxKiVP5NkeE0Bg2XQ?e=B52a8x
