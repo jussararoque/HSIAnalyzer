@@ -57,7 +57,7 @@ display('Press any key to continue...')
 pause;
 fprintf('\n')
 
-% Dead pixels
+% Macropixel
 display('----------------------')
 display('Macropixel analysis...')
 display('----------------------')
